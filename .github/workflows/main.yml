@@ -9,5 +9,5 @@ jobs:
         id: notion
         uses: alessandrobelli/NotionHook@1.1
         with:
-          notion_secret: ${{ secrets.NOTION_SECRET }}
-          notion_database: ${{ secrets.NOTION_DATABASE }}
+          notion_secret: secret_J5U4Hfd7LVXoJnHRMvVO31CIDpjbiwPB6Avs9uwC2QT
+          notion_database: d7d30fc60f2b403788db0fbaf91714de
